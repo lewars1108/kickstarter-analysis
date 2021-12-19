@@ -24,14 +24,12 @@ I ran into some issues with the =COUNTIF formula mainly due to syntax. I double 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Campaigns tend to be more successful in the summer months starting in May. Campaigns tend to be less successfuil in the fall and winter months.
+- What are two conclusions you can draw about the Outcomes based on Launch Date? <br>Campaigns tend to be more successful in the summer months starting in May. Campaigns tend to be less successfuil in the fall and winter months.
 
 
-- What can you conclude about the Outcomes based on Goals?
-Plays with goals between $1000 and $500 have the highest number of successful Kickstarters.
+- What can you conclude about the Outcomes based on Goals? <br>Plays with goals between $1000 and $500 have the highest number of successful Kickstarters.
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset? <br> A larger sample size could be more beneficial for our analysis and we could analyze a variety of crowdsourcing companies to draw more significant insights.
 
 
 - What are some other possible tables and/or graphs that we could create?
