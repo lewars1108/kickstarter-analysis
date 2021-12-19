@@ -11,7 +11,7 @@ This data analysis was used to help Louise make important decisions about her Ki
 
 
 ### Analysis of Outcomes Based on Launch Date
-![image_name](path/to/image_name.png) ---
+![image_name](Theater_Outcomes_vs_Launch.png) ---
 
 
 ### Analysis of Outcomes Based on Goals
