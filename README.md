@@ -11,12 +11,13 @@ This data analysis was used to help Louise make important decisions about her Ki
 
 
 ### Analysis of Outcomes Based on Launch Date
-![image_name](Theater_Outcomes_vs_Launch.png) ---
+![image_name](Theater_Outcomes_vs_Launch.png)<br>
+A significant spike in the number of successful kickstart campaigns occured in the month of May and gradually dropped througout the remaing summer months. The fall and winter months saw fewer success counts than the beginning of the year as well. The failed campaigns remained stable throughout the year. There was a gradual increase in the summer months. September saw a decrease in failed campaigns only to be followed by a spike in the month of October. Canceled campaigns remained low, with none reported in October.
 
 
 ### Analysis of Outcomes Based on Goals
-![image_name](path/to/image_name.png) ---
-
+![image_name](Outcomes_vs_Goals.png)<br>
+Generally the Kickstartes with smaller goal amounts had higher success rates, with those between $1,000 and $5000 having the most. They also had the highest number of failed campaigns relatively. There were not many projects with goals of higher than $20,000. It should be noted that the average goal of successful campaigns was $5,049.
 
 
 ### Challenges and Difficulties Encountered
@@ -26,10 +27,8 @@ I ran into some issues with the =COUNTIF formula mainly due to syntax. I double 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? <br>Campaigns tend to be more successful in the summer months starting in May. Campaigns tend to be less successfuil in the fall and winter months.
 
-
-- What can you conclude about the Outcomes based on Goals? <br>Plays with goals between $1000 and $500 have the highest number of successful Kickstarters.
+- What can you conclude about the Outcomes based on Goals? <br>Plays with goals between $1000 and $5000 have the highest number of successful Kickstarters.
 
 - What are some limitations of this dataset? <br> A larger sample size could be more beneficial for our analysis and we could analyze a variety of crowdsourcing companies to draw more significant insights.
 
-
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?<br>The correlation between Country and Outcome could be discovered further. Wealthier countries could view plays as important to society and culture, while others could find it wasteful.
